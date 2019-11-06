@@ -1,0 +1,22 @@
+p {
+    text-align: justify; line-height: 200%; 
+    vertical-align: center;
+    text-indent: 2em
+}
+
+p::first-letter{
+
+    font-size: 1.5em;
+    font-weight: bold;
+    font-family: Courier New, Courier, monospace
+}
+
+#enlace {
+    padding: 0 0 0 18;
+    background: #FFF url("cara 1.jpg") no-repeat left center
+
+}
+
+#hola:active {
+    display: none
+}
